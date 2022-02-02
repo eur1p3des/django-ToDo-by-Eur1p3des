@@ -8,3 +8,5 @@ To Do list app with User Registration, Login, Search and full Create Read Update
 ---
 ## NOTE:
 In order to run the web app, you must run the following command on your terminal: ```python manage.py runserver``` 
+In order to create a super user, for the database, you need tu run the following command: ```python .\manage.py createsuperuser```
+To access the database web interface, you must use the link: ``` web.domain/admin```
